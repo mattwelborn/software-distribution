@@ -132,7 +132,7 @@ COPY hello.c /hello/hello.c # copy source from host machine into build container
 RUN cd /hello && gcc hello.c -o hello
 CMD ["/hello/hello"]
 ~~~
-{: .language-bash}
+{: .language-docker}
 
 Build:
 
