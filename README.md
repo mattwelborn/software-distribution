@@ -1,4 +1,4 @@
-# FIXME Lesson title
+# Software Distribution
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
@@ -19,7 +19,7 @@ how to write new episodes.
 
 ## Maintainer(s)
 
-* FIXME
+* Matthew Welborn (@mattwelborn)
 
 ## Authors
 
