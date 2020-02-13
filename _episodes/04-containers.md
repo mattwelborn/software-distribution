@@ -80,12 +80,15 @@ Now try to run:
 
 Compiled code is built inside the `Dockerfile`. Create a new folder with the code `hello.c`:
 
-    #include <stdio.h>
+~~~
+#include <stdio.h>
 
-    int main () {
-        printf("Hello world!\n");
-        return 0;
-    }
+int main () {
+    printf("Hello world!\n");
+    return 0;
+}
+~~~
+{: .language-c}
 
 and the `Dockerfile`:
 
